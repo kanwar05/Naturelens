@@ -1,0 +1,17 @@
+{
+  "name": "NatureLens",
+  "short_name": "NatureLens",
+  "description": "Offline-first AI nature companion for outdoor exploration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe7",
+  "theme_color": "#1f4d3a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
